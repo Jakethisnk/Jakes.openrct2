@@ -1,0 +1,11 @@
+{
+  "name": "Healthy Park",
+  "finances": {"cash": 90000, "loan": 0, "max_loan": 50000, "monthly_income": 12000, "monthly_expenses": 7000},
+  "guests": {"count": 100, "satisfaction": 85, "park_rating": 800, "hungry_pct": 5, "thirsty_pct": 5, "needs_toilet_pct": 5},
+  "rides": [
+    {"name": "Steel Coaster", "kind": "coaster", "excitement": 8.0, "breakdowns": 0, "days_since_inspection": 5},
+    {"name": "Carousel", "kind": "gentle", "excitement": 3.0, "breakdowns": 0, "days_since_inspection": 7}
+  ],
+  "staff": {"handymen": 2, "mechanics": 2, "entertainers": 1, "security": 1},
+  "scenery": {"trees": 60, "benches": 10, "bins": 10, "litter_count": 3, "vandalism_count": 0}
+}
