@@ -1,0 +1,14 @@
+{
+  "name": "Struggling Park",
+  "finances": {"cash": 1200, "loan": 20000, "max_loan": 50000, "monthly_income": 3000, "monthly_expenses": 4500},
+  "guests": {"count": 400, "satisfaction": 45, "park_rating": 480, "hungry_pct": 25, "thirsty_pct": 10, "needs_toilet_pct": 20},
+  "rides": [
+    {"name": "Wooden Coaster", "kind": "coaster", "excitement": 6.5, "breakdowns": 4, "days_since_inspection": 45, "breakdown_now": true, "queue_length": 70},
+    {"name": "Merry-Go-Round", "kind": "gentle", "excitement": 3.0, "breakdowns": 0, "days_since_inspection": 5},
+    {"name": "Ferris Wheel", "kind": "gentle", "excitement": 4.0, "breakdowns": 1, "days_since_inspection": 40},
+    {"name": "Log Flume", "kind": "water", "excitement": 5.0, "breakdowns": 0, "days_since_inspection": 10},
+    {"name": "Go Karts", "kind": "kart", "excitement": 4.5, "breakdowns": 0, "days_since_inspection": 12}
+  ],
+  "staff": {"handymen": 1, "mechanics": 1, "entertainers": 0, "security": 0},
+  "scenery": {"trees": 10, "benches": 3, "bins": 2, "litter_count": 80, "vandalism_count": 8}
+}
